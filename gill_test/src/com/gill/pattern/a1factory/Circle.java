@@ -1,4 +1,4 @@
-package com.gill.pattern.factory;
+package com.gill.pattern.a1factory;
 
 public class Circle implements Shape {
 

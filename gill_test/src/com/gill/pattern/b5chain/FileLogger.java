@@ -1,4 +1,4 @@
-package com.gill.pattern.chain;
+package com.gill.pattern.b5chain;
 
 public class FileLogger extends AbstractLogger {
 
